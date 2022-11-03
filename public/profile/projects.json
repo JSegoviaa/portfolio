@@ -1,0 +1,121 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/red1a1.png",
+      "title": "Red 1a1",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://red1a1.com/app"
+        }
+      ],
+      "tags": [
+        "NextJS",
+        "Typescript",
+        "NodeJS",
+        "MongoDB",
+        "Google maps"
+      ]
+    },
+    {
+      "image": "images/projects/ma-banane.png",
+      "title": "Ma banane",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://es.mabanane.com/"
+        }
+      ],
+      "tags": ["Shopify", "Liquid"]
+    },
+    {
+      "image": "images/projects/aaconsultores.png",
+      "title": "Aviles y Arenas consultores",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://avilesyarenaconsultores.com/"
+        }
+      ],
+      "tags": ["Wordpress"]
+    },
+    {
+      "image": "images/projects/allmedical.png",
+      "title": "All medical",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.allmedical.com.mx/"
+        }
+      ],
+      "tags": ["Wordpress"]
+    },
+    {
+      "image": "images/projects/paradisebeach.png",
+      "title": "Paradise Beach Cozumel",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://paradisebeachcozumel.com/"
+        }
+      ],
+      "tags": ["Wordpress"]
+    },
+    {
+      "image": "images/projects/essenza.png",
+      "title": "Essenza",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://essenza.mx/"
+        }
+      ],
+      "tags": ["Wordpress"]
+    },
+    {
+      "image": "images/projects/universokimu.png",
+      "title": "Universo Kimu",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://universokimu.com/"
+        }
+      ],
+      "tags": ["Wordpress"]
+    },
+    {
+      "image": "images/projects/gpo.png",
+      "title": "Grupo Odontologico Cancún",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://gpoodontologicocancun.com/"
+        }
+      ],
+      "tags": ["Wordpress", "PWA"]
+    },
+    {
+      "image": "images/projects/sdi.png",
+      "title": "Soluciones dentales inteligentes",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://solucionesdentalescancun.com/"
+        }
+      ],
+      "tags": ["Wordpress", "PWA"]
+    },
+    {
+      "image": "images/projects/novadent.png",
+      "title": "Novaden palmas",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://novadentpalmas.com/"
+        }
+      ],
+      "tags": ["Wordpress", "PWA"]
+    }
+   
+  ]
+}
